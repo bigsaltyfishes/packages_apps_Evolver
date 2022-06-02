@@ -1306,4 +1306,8 @@
     <!-- Colorful battery icon -->
     <string name="battery_level_colors_title">Toggle colorful battery icon</string>
     <string name="battery_level_colors_summary">Each battery level drop is color coded (requires SystemUI restart)</string>
+
+     <!-- AOD clock accent color -->
+     <string name="aod_clock_accent_title">Apply accent color to AOD clock</string>
+     <string name="aod_clock_accent_summary">Apply accent color to AOD clock (requires SystemUI restart)</string>
 </resources>
