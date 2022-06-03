@@ -1002,6 +1002,10 @@
     <!-- Lock screen icons -->
     <string name="lockscreen_tuner_title">Lock screen shortcuts</string>
 
+    <!-- Lid Behavior -->
+    <string name="lid_behavior_title">Allow lid control sleep</string>
+    <string name="lid_behavior_summary">Allows the device to detect the open or closed state of the lid to wake or put the device to sleep</string>
+
     <!-- Double Tap Lock screen to Sleep -->
     <string name="double_tap_to_sleep_lockscreen_title">Tap on lock screen</string>
     <string name="double_tap_to_sleep_lockscreen_summary">Double-tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>

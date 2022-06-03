@@ -54,6 +54,12 @@
             android:summary="@string/disable_qs_summary"
             android:defaultValue="false" />
 
+        <com.evolution.settings.preference.GlobalSettingSwitchPreference
+            android:key="lid_behavior"
+            android:title="@string/lid_behavior_title"
+            android:summary="@string/lid_behavior_summary"
+            android:defaultValue="false" />
+
     </PreferenceCategory>
 
     <PreferenceCategory

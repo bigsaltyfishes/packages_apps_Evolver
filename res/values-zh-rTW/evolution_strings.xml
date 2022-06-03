@@ -943,6 +943,9 @@
     <string name="volume_category">音量按鈕</string>
     <!-- Lock screen icons -->
     <string name="lockscreen_tuner_title">鎖定畫面捷徑</string>
+    <!-- Lid Behavior -->
+    <string name="lid_behavior_title">允許保護套的蓋子控制睡眠</string>
+    <string name="lid_behavior_summary">允許設備檢測蓋子的開合狀態來喚醒設備或使設備睡眠</string>
     <!-- Double Tap Lock screen to Sleep -->
     <string name="double_tap_to_sleep_lockscreen_title">在鎖定畫面上輕觸</string>
     <string name="double_tap_to_sleep_lockscreen_summary">輕觸鎖定畫面的上半部或是底部捷徑區域兩下以關閉裝置螢幕</string>

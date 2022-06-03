@@ -847,6 +847,9 @@
     <string name="volume_category">音量键</string>
     <!-- Lock screen icons -->
     <string name="lockscreen_tuner_title">锁屏界面快捷方式</string>
+    <!-- Lid Behavior -->
+    <string name="lid_behavior_title">允许保护套的盖子控制睡眠</string>
+    <string name="lid_behavior_summary">允许设备检测盖子的开合状态来唤醒设备或使设备睡眠</string>
     <!-- Double Tap Lock screen to Sleep -->
     <string name="double_tap_to_sleep_lockscreen_title">点按锁定屏幕</string>
     <string name="double_tap_to_sleep_lockscreen_summary">双击锁屏界面顶部或底部快捷键区域使设备休眠</string>
